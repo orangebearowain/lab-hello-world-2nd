@@ -1,0 +1,11 @@
+[project]
+name = "lab-hello-world-2nd"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "git-ignore>=1.0.2",
+    "httpx>=0.28.1",
+    "streamlit>=1.46.1",
+]
