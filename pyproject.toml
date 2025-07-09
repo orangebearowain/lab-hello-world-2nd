@@ -9,6 +9,7 @@ dependencies = [
     "fastapi>=0.116.0",
     "git-ignore>=1.0.2",
     "httpx>=0.28.1",
+    "pyyaml>=6.0.2",
     "streamlit>=1.46.1",
     "uvicorn>=0.35.0",
 ]

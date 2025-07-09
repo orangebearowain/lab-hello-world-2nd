@@ -1,0 +1,12 @@
+logging:
+  file: logs/output.log
+  level: info
+vapp:
+  features:
+  - temperature_control
+  - remote_access
+  - energy_saving
+  mode: 'off'
+  name: SmartThermo
+  set_point: 75
+  version: 1.2.0
